@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, R, SQL
 - 💞️ I’m looking to collaborate on Kaggle Projects
 - 📫 How to reach me: danielx.nie@gmail.com
+- :link: Website: https://dnie44.github.io/
 
 <!---
 dnie44/dnie44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
