@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel Nie @dnie44
-- 👀 I’m interested in Data Science, Machine Learning, Healthcare, Art & Design
+- 👀 I’m interested in Data Science, Machine Learning, Healthcare, & Data Visualization
 - 🌱 I’m currently learning Python, R, SQL
 - 📫 How to reach me: danielx.nie@gmail.com
 - :link: Website: https://dnie44.github.io/
